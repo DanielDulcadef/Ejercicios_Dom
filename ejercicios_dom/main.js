@@ -90,11 +90,13 @@
 //  función toggle() para producir este efecto.
 
 
-function toggle(){
+function togleClase(){
 let pag = document.getElementById('titular');
 pag.classList.toggle('activo');
 } 
-console.log(toggle)
+console.log(togleClase)
+
+
 
 
 
